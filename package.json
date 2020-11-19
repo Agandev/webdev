@@ -1,0 +1,14 @@
+{
+  "name": "nodepro",
+  "version": "1.0.0",
+  "description": "nodejs learn",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agandev",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.13"
+  }
+}
